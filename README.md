@@ -1,10 +1,3 @@
-## Developer Details
-
-```
-Hi, My Name is Mandeep Singh, i'm shared android App code in kotlin with new Splash API.
-I've Native Android Developer (Kotlin | Java | Jetpack Compose) and Backend development (Node | Python).
-```
-
 ## Contact details
 
 **Follow me on :** [Facebook](https://facebook.com/mandeepsinghpurwa/)
