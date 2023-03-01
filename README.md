@@ -38,7 +38,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/officialmandeepsingh/Quiz-App.git
 ```
 
 **Step 2:**
