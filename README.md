@@ -1,3 +1,10 @@
+## Developer Details
+
+```
+Hi, My Name is Mandeep Singh, i'm shared Quiz App fully  developed in Dart (Flutter).
+I've Native Android Developer (Kotlin | Java | Jetpack Compose) and Backend development (Node | Python).
+```
+
 ## Contact details
 
 **Follow me on :** [Facebook](https://facebook.com/mandeepsinghpurwa/)
